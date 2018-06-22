@@ -1,0 +1,63 @@
+#! /bin/bash
+
+#.  ~/.config/colors/yandere.sh
+
+[options]
+resize_grip = false
+scroll_on_output = false
+scroll_on_keystroke = true
+audible_bell = false
+visible_bell = false
+mouse_autohide = true
+allow_bold = true
+dynamic_title = true
+urgent_on_bell = true
+clickable_url = true
+font = PixelMplus12 15
+scrollback_lines = 1000
+search_wrap = true
+
+cursor_blink = system
+cursor_shape = underline
+browser = firefox
+
+size_hints = true
+
+[colors]
+foreground = #2b2b2b
+foreground_bold = #ffffff
+background = #ececec
+highlight = #2f2f2f
+
+# black, dark gray
+color0 = #2b2b2b
+color8 = #2b2b2b
+
+# red, light red
+color1 = #f4729b
+color9 = #f4729b
+
+# green, light green
+color2 = #00c0c0
+color10 = #00c0c0
+
+# yellow, light yellow
+color3 = #ffffff
+color11 = #ffffff
+
+# blue, light blue
+color4 = #d3d3d3
+color12 = #d3d3d3
+
+# magenta, light magenta
+color5 =  #adadad
+color13 = #adadad
+
+# cyan, light cyan
+color6 = #636363
+color14 = #636363
+
+#light gray, white
+color7 = #343434
+color15 = #343434
+

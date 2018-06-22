@@ -1,0 +1,42 @@
+! urvxt
+URxvt.font: xft:FantasqueSansMono Nerd Font:size=15
+URxvt.scrollBar: false
+URxvt.cursorUnderline: 1
+URxvt.cursorBlink: 1
+
+!urvxt-colors
+
+*foreground: #2b2b2b
+*background: #ececec
+
+! black, gray
+*color0:     #2b2b2b
+*color8:     #2b2b2b
+
+! red, lightred
+*color1:     #f4729b
+*color9:     #f4729b
+
+! green, lightgreen
+*color2:     #00c0c0
+*color10:    #00c0c0
+
+! yellow, lightyellow
+*color3:     #ffffff
+*color11:    #ffffff
+
+! blue, lightblue
+*color4:     #d3d3d3
+*color12:    #d3d3d3
+
+! magenta, lightmagenta
+*color5:     #adadad
+*color13:    #adadad
+
+! cyan, lightcyan
+*color6:     #636363
+*color14:    #636363
+
+! gray, white
+*color7:     #343434
+*color15:    #343434
